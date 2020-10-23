@@ -45,18 +45,27 @@ main {
 
 main > .intro {
 	font-family: 'Reem Kufi', sans-serif;
+	font-family: 'Cookie', cursive;
 	font-size: 3.75em;
 	font-weight: 600;
+	color: green;
+	font-style:italic;
+
 }
 
 main > .tagline {
-	font-size: 1.5rem;
+	font-size: 2rem;
+	font-family: 'Cookie', cursive;
 	margin: 1.5rem 0;
 	font-weight: 100;
+	color: green;
+	font-style:italic;
 }
 
 .icons-social i {
 	padding: 10px;
+	color: green;
+
 }
 
 .devto {
@@ -68,4 +77,8 @@ main > .tagline {
 	margin-left: 0.675rem;;
 	width: 2.65rem;
 	height: 2.65rem;
+}
+body
+{
+    background-image: url("https://ak.picdn.net/shutterstock/videos/1007399926/thumb/1.jpg");
 }
